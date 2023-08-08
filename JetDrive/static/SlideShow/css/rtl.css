@@ -1,0 +1,20 @@
+body {
+	direction: rtl;
+	text-align: right;
+}
+.owl-carousel .owl-stage-outer {
+	direction: ltr;
+	text-align: right;
+}
+.owl-carousel .owl-stage-outer p{
+	direction: rtl;
+}
+.brand.left{
+	float: right !important;
+}
+.brand.right{
+	float: left !important;
+}
+.brand.right h3{
+	font-size: 1rem;
+}
